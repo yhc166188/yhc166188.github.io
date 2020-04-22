@@ -1,0 +1,24 @@
+{
+  "name": "yhc166188.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "lite-server -c ./lite-server.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhc166188/yhc166188.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhc166188/yhc166188.github.io/issues"
+  },
+  "homepage": "https://github.com/yhc166188/yhc166188.github.io#readme"
+}
